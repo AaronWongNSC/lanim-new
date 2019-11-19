@@ -28,6 +28,6 @@ The Lanim class is the basic container that holds all of the information about t
 
 ## History
 
-* animate v1 - v5: I went through five versions of making an "animate" module before switching over the lanim name. Those first versions were really just me exploring and implementing different ideas. This is how I eventually came to the use of classes and inheritance as the way to create objects.
+* animate v1 - v5: I went through six and a half versions of making an "animate" module before switching over the lanim name. Those first versions were really just me exploring and implementing different ideas. This is how I eventually came to the use of classes and inheritance as the way to create objects.
 * lanim v1: animate v5 went through some fairly substantial revisions, which led me to decide to rename the whole project and start over. This was the version that introduced a lot more of the animation ideas like rotational and transparency attributes, and this is also where I finally was able to implement the camera the way I wanted to.
 * Future: I need to learn how to document my stuff in the Python style. This is something that's completely new to me, but it seems like something that would be worth learning. If anything, it should help me to think more clearly about how I approach this project and will potentially help me identify ways to refactor the code to make it more efficient and more functional.
